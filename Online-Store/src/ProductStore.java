@@ -74,7 +74,7 @@ public class StoreUI {
                 break;
             case"5":
                 return; //
-            g
+
             }
 
         }
